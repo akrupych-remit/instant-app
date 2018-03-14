@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uk.co.xlntech.instantapp.base",
+    "sha256_cert_fingerprints":
+    ["E3:3E:AC:03:05:D6:10:E2:14:67:28:0A:51:32:E9:79:F4:D6:C4:07:70:73:82:FE:4D:75:EB:6D:9E:5F:05:31"]
+  }
+}]
